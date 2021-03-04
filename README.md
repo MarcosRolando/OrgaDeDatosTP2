@@ -8,5 +8,4 @@ Link a la competencia de Kaggle : https://www.kaggle.com/c/friofrio .
  - Rolando, Marcos: https://github.com/MarcosRolando
  - Soriano, Ivan : https://github.com/sorianoivan
 
-
 Link al video de presentacion : https://youtu.be/hqI3767NoRA
