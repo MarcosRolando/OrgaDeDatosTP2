@@ -9,4 +9,4 @@ Link a la competencia de Kaggle : https://www.kaggle.com/c/friofrio .
  - Soriano, Ivan : https://github.com/sorianoivan
 
 
-Link al video de presentacion : https://youtu.be/FZhxgjelCzY
+Link al video de presentacion : https://youtu.be/hqI3767NoRA
